@@ -75,4 +75,4 @@ Botun özelliklerini **`/setting`** komutuyla açabilir ve yapılandırabilirsin
 
 ## Katkıda Bulunma  
 
-Yeni özellikler eklemek için bize ulaşın 
+Yeni özellikler eklemek için bana ulaşın 
