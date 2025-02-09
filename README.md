@@ -2,20 +2,10 @@
 
 Open-source bot that helps you to administrate Telegram groups.
 
-Follow Us On [![alt text][2.1]][2]
-
-[2.1]: http://i.imgur.com/P3YfQoD.png 
-[2]: http://www.facebook.com/SingaporeTechEntrepreneurs/
-
 ## Installing
 
 If you are about to obtain your own copy/fork of this bot complete the following steps:
 
-1. Clone repo
-
-    ```sh
-    $ git clone https://github.com/Singapore-Tech-Entrepreneurs/telegram_bot_for_admins.git
-    ```
 
 1. Install dependencies (you need [node.js](https://nodejs.org/) and [NPM](https://www.npmjs.com/) installed)
 
@@ -120,4 +110,4 @@ If enabled, all admins of your group can use "`/setting`" command. If disabled, 
 
 ## Contibution
 
-You are free to help us to implement new features that described in issues. Please, make PRs into `develop` branch.
+You are free to help us to implement new features that described in issues. Please, make PRs into `develop` branch
