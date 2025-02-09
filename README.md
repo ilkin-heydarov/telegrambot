@@ -2,9 +2,7 @@
 
 Açık kaynaklı bu bot, Telegram gruplarınızı yönetmenize yardımcı olur.  
 
-## Kurulum  
-
-Eğer bu botun kendi kopyasını/fork’unu alacaksanız aşağıdaki adımları takip edin:  
+## Kurulum    
 
 1. Bağımlılıkları yükleyin (**[Node.js](https://nodejs.org/) ve [NPM](https://www.npmjs.com/) yüklü olmalıdır.**)  
 
